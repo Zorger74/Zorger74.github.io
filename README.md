@@ -7,3 +7,7 @@ Personal Website
 ## Resume
 
 ## Blog
+
+My Substack is [here][Substack].
+
+[Substack]: https://zorger74.substack.com/
