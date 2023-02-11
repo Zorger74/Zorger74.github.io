@@ -1,13 +1,10 @@
 # Zorger74.github.io
 
-Personal Website
+Welcome to Zach Perry's personal website.
 
-## About
+See my [resume][resume], [about page][about], or [blog][blog]. Contact me [here][contact].
 
-## Resume
-
-## Blog
-
-My Substack is [here][Substack].
-
-[Substack]: https://zorger74.substack.com/
+[resume]: https://zorger74.github.io/resume
+[about]: htpps://zorger74.github.io/about
+[blog]: https://zorger74.github.io/blog
+[contact]: https://zorger74.github.io/contact
